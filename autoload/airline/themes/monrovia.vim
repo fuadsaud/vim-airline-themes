@@ -5,7 +5,7 @@ let g:airline#themes#monrovia#palette.accents = {
       \ }
 
 " Normal Mode:
-let s:N1 = [ '#A1617A' , '#EEEADF' , 240 , 254 ] " Mode
+let s:N1 = [ '#8C3432' , '#EEEADF' , 240 , 254 ] " Mode
 let s:N2 = [ '#EEEADF' , '#9E7156' , 254 , 31  ] " Info
 let s:N3 = [ '#D3CBAF' , '#232839' , 255 , 24  ] " StatusLine
 
@@ -15,7 +15,7 @@ let g:airline#themes#monrovia#palette.normal_modified = {
       \ }
 
 " Insert Mode:
-let s:I1 = [ '#A1617A' , '#EEEADF' , 240 , 254 ] " Mode
+let s:I1 = [ '#8C3432' , '#EEEADF' , 240 , 254 ] " Mode
 let s:I2 = [ '#EEEADF' , '#9E7156' , 254 , 31  ] " Info
 let s:I3 = [ '#D3CBAF' , '#232839' , 255 , 24  ] " StatusLine
 
